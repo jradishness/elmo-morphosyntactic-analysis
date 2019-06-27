@@ -1,4 +1,4 @@
-# elmo-morphosyntactic-analysis
+# Extending Morphological Analysis and Lemmatization to any Language with a Bible
 As a submission to Sigmorphon 2019 Task 2, we developed a machine learning model for predicting POS tags, Unimorph tags, and Lemma forms. We did this using elmo contextual word embeddings trained only on the bible in each language. We use the bible alignment to achieve cross-lingual transfer of vectors in a translation matrix.
 
 Because I worked on this project with a team, and all of their code is their own, I have chosen to include only the data and code examples from the portion of the project with which I was involved.
